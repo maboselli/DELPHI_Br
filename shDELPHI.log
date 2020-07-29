@@ -57,3 +57,28 @@ DELPHI_model
 ./script_cmd: line 10: 12093 Terminated              /home/boselli/Marco/prog/epidemia/delphi_br/DELPHI_model_bare_026_gh.py
 Rodou o DELPHI
 DELPHI Update 07-29-2020 18:43:30
+[master 2ca5189] update 07-29-2020 18:43:30
+ 20 files changed, 63 insertions(+), 4474 deletions(-)
+ delete mode 100644 Fig_Brasil_AC_Estado.png
+ delete mode 100644 Fig_Brasil_AL_Estado.png
+ delete mode 100644 Fig_Brasil_AM_Estado.png
+ delete mode 100644 Fig_Brasil_AP_Estado.png
+ delete mode 100644 Fig_Brasil_BA_Salvador.png
+ delete mode 100644 Fig_Brasil_CE_Estado.png
+ delete mode 100644 Fig_Brasil_CE_Fortaleza.png
+ delete mode 100644 "Fig_Brasil_MA_S\303\243o_Lu\303\255s.png"
+ delete mode 100644 Fig_Brasil_PA_Estado.png
+ delete mode 100644 Fig_Brasil_PB_Estado.png
+ delete mode 100644 Fig_Brasil_PE_Estado.png
+ delete mode 100644 Fig_Brasil_PI_Estado.png
+ delete mode 100644 Fig_Brasil_RJ_Estado.png
+ delete mode 100644 Fig_Brasil_RO_Estado.png
+ delete mode 100644 Fig_Brasil_SE_Estado.png
+ delete mode 100644 Geral_Br_prediction.csv
+ delete mode 100644 Geral_Br_real_data.csv
+ delete mode 100644 Parameters_Global.csv
+ rewrite shDELPHI.log (66%)
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:maboselli/DELPHI_Br.git        
+To github.com:maboselli/delphi_Br.git
+   015794f..2ca5189  master -> master
