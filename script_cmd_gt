@@ -1,0 +1,10 @@
+#
+echo 'Rodou o DELPHI'
+#
+data=$(date +"%m-%d-%Y %T")
+echo "DELPHI Update ${data}"
+git add .
+git commit -m "update ${data}"
+git push -f origin master
+
+
