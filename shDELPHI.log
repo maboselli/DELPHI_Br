@@ -54,222 +54,222 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Aracaju.csv
 DELPHI_model
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RO_Estado.csv
-331663183120.3804
-[ 2.         -4.23491851  1.          0.08919237  0.02392734  0.1
+348617736437.0614
+[ 2.         -4.21065045  1.          0.08653187  0.02393645  0.1
   0.1       ]
-Bad fitting for Estado RO:  25.44
+Bad fitting for Estado RO:  25.57
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AC_Estado.csv
-354351641378.1167
-[ 2.         -6.74970879  1.          0.49999999  0.02599083  0.1
+372390570643.82214
+[ 2.         -6.73686142  1.          0.5         0.02595604  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AM_Estado.csv
-1544547459463.1074
-[ 2.         -1.83149008  1.          0.5         0.0338751   0.1
+1609912056950.67
+[ 2.         -1.81924992  1.          0.5         0.03382049  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RR_Estado.csv
-2094068589253.5488
-[ 2.         -4.10570382  1.          0.06698723  0.01736383  0.1
+2176539729302.1404
+[ 2.         -4.06978648  1.          0.06651598  0.01728941  0.1
   0.1       ]
-Bad fitting for Estado RR:  35.26
+Bad fitting for Estado RR:  35.38
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PA_Estado.csv
-4930375028163.029
-[2.         0.4907596  1.         0.5        0.03654719 0.1
+5147637355796.378
+[2.         0.50390224 1.         0.5        0.03639475 0.1
  0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AP_Estado.csv
-5021416976669.564
-[ 2.         -4.19666869  1.          0.23466785  0.01588919  0.1
+5244048737233.326
+[ 2.         -4.18122378  1.          0.2186987   0.01590302  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_TO_Estado.csv
-5531908720904.281
-[ 2.         -5.16442932  1.          0.05        0.01816483  0.1
+5789544818259.668
+[ 2.         -5.11323746  1.          0.05        0.01807019  0.1
   0.1       ]
-Bad fitting for Estado TO:  35.51
+Bad fitting for Estado TO:  35.66
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MA_Estado.csv
-11595494236705.297
-[2.         2.36792661 1.         0.05       0.02841556 0.1
+12103740901477.324
+[2.         2.41403227 1.         0.05       0.02831408 0.1
  0.1       ]
-Bad fitting for Estado MA:  33.33
+Bad fitting for Estado MA:  33.43
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PI_Estado.csv
-13399454479636.506
-[2.         0.29567059 1.         0.05       0.03110948 0.1
+13989530113658.596
+[2.         0.34131955 1.         0.05       0.03094983 0.1
  0.1       ]
-Bad fitting for Estado PI:  36.27
+Bad fitting for Estado PI:  36.51
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_CE_Estado.csv
-31203263353890.938
-[2.         1.03800793 1.         0.06818167 0.04980888 0.1
+32327133326952.46
+[2.         1.06671256 1.         0.06740676 0.04966243 0.1
  0.1       ]
-Bad fitting for Estado CE:  34.27
+Bad fitting for Estado CE:  34.44
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RN_Estado.csv
-32611001991051.71
-[ 2.         -2.75864094  1.          0.05        0.04302188  0.1
+33767724415388.734
+[ 2.         -2.7304949   1.          0.05        0.04291652  0.1
   0.1       ]
-Bad fitting for Estado RN:  49.99
+Bad fitting for Estado RN:  50.09
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PB_Estado.csv
-35377744120154.93
-[2.         5.99404569 1.         0.05       0.02726798 0.1
+36642940795511.01
+[2.         6.03406958 1.         0.05       0.02722524 0.1
  0.1       ]
-Bad fitting for Estado PB:  32.06
+Bad fitting for Estado PB:  32.19
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PE_Estado.csv
-38877515436976.055
-[2.         1.83703579 1.         0.15097993 0.07101035 0.1
+40304029830060.42
+[2.         1.86627888 1.         0.14371878 0.07090704 0.1
  0.1       ]
-Bad fitting for Estado PE:  30.94
+Bad fitting for Estado PE:  31.00
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AL_Estado.csv
-39549082418899.21
-[ 2.         -0.0568082   1.          0.25128352  0.02631317  0.1
+41001424216942.266
+[ 2.         -0.03406676  1.          0.23243202  0.02632558  0.1
   0.1       ]
-Bad fitting for Estado AL:  25.92
+Bad fitting for Estado AL:  26.01
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Estado.csv
-40602900939222.27
-[2.         0.63376033 1.         0.05       0.03129454 0.1
+42083020571449.82
+[2.         0.66622711 1.         0.05       0.03120612 0.1
  0.1       ]
-Bad fitting for Estado SE:  28.41
+Bad fitting for Estado SE:  28.43
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_BA_Estado.csv
-91301750249955.66
-[2.         1.0575065  1.         0.05       0.02613771 0.1
+94699791107757.56
+[2.         1.11026556 1.         0.05       0.02606647 0.1
  0.1       ]
-Bad fitting for Estado BA:  84.94
+Bad fitting for Estado BA:  85.76
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Estado.csv
-164571721356032.44
-[2.         5.56005137 1.         0.05       0.0297531  0.1
+171235176482346.25
+[2.         5.81019256 1.         0.05       0.02974529 0.1
  0.1       ]
-Bad fitting for Estado MG:  322.91
+Bad fitting for Estado MG:  330.96
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_ES_Estado.csv
-167402195781696.84
-[ 2.         -2.82469317  1.          0.05015012  0.0357267   0.1
+174162949310120.3
+[ 2.         -2.80229865  1.          0.05        0.03560676  0.1
   0.1       ]
-Bad fitting for Estado ES:  32.90
+Bad fitting for Estado ES:  32.97
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RJ_Estado.csv
-178948323625447.75
-[ 2.         -0.37989822  1.          0.07610698  0.08631853  0.1
+186206859556086.44
+[ 2.         -0.36077627  1.          0.07428419  0.08624027  0.1
   0.1       ]
-Bad fitting for Estado RJ:  28.64
+Bad fitting for Estado RJ:  28.86
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SP_Estado.csv
-563769873883951.5
-[2.         2.36443888 1.         0.05       0.04881906 0.1
+585282917435814.2
+[2.         2.39296951 1.         0.05       0.04857577 0.1
  0.1       ]
-Bad fitting for Estado SP:  49.67
+Bad fitting for Estado SP:  49.91
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PR_Estado.csv
-577591030011334.1
-[ 2.         -3.20287073  1.          0.05        0.03072853  0.1
+599670949087456.6
+[ 2.         -3.15560191  1.          0.05        0.0306374   0.1
   0.1       ]
-Bad fitting for Estado PR:  139.70
+Bad fitting for Estado PR:  140.69
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SC_Estado.csv
-603419883523729.1
-[ 2.         -2.71908468  1.          0.05        0.01687117  0.1
+626961734734228.4
+[ 2.         -2.65282355  1.          0.05        0.01678962  0.1
   0.1       ]
-Bad fitting for Estado SC:  120.67
+Bad fitting for Estado SC:  122.20
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RS_Estado.csv
-616022955435607.1
-[ 2.         -3.96725516  1.          0.05        0.03259887  0.1
+640248540659708.8
+[ 2.         -3.91177878  1.          0.05        0.0324923   0.1
   0.1       ]
-Bad fitting for Estado RS:  98.26
+Bad fitting for Estado RS:  99.36
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MS_Estado.csv
-618380778916726.9
-[ 2.         -0.89700355  1.          0.05        0.02098784  0.1
+642737494181230.8
+[ 2.         -0.72753252  1.          0.05        0.02101296  0.1
   0.1       ]
-Bad fitting for Estado MS:  222.10
+Bad fitting for Estado MS:  226.71
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MT_Estado.csv
-622683880048321.0
-[ 2.         -3.59439466  1.          0.05        0.03996751  0.1
+647212041098859.8
+[ 2.         -3.54849869  1.          0.05        0.03975765  0.1
   0.1       ]
-Bad fitting for Estado MT:  127.24
+Bad fitting for Estado MT:  127.77
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_GO_Estado.csv
-634279158452877.6
-[ 2.         -2.50018037  1.          0.05        0.0290561   0.1
+659374974190083.4
+[ 2.         -2.44712954  1.          0.05        0.02898272  0.1
   0.1       ]
-Bad fitting for Estado GO:  118.99
+Bad fitting for Estado GO:  120.14
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_DF_Estado.csv
-655221415075996.8
-[ 2.         -1.79826834  1.          0.05        0.01745079  0.1
+681059962116745.8
+[ 2.         -1.75409076  1.          0.05        0.01745933  0.1
   0.1       ]
-Bad fitting for Estado DF:  150.18
+Bad fitting for Estado DF:  151.21
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_CE_Fortaleza.csv
-655273740520079.8
-[  1.95009628 -10.           1.           0.5          0.08713578
-   0.1          0.15299554]
+681114039266219.1
+[  1.95321899 -10.           1.           0.5          0.08701123
+   0.1          0.15060024]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MA_São_Luís.csv
-655289982885096.4
-[ 1.78079962 -9.99999999  1.          0.12830324  0.06859957  0.7403833
-  0.10000002]
+681130903382052.1
+[  1.78724558 -10.           1.           0.13172027   0.06842501
+   0.71724104   0.10000001]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_BA_Salvador.csv
-657014865342335.9
-[ 2.         -3.79350692  1.          0.05        0.03792899  0.1
+682913040342203.8
+[ 2.         -3.76899543  1.          0.05        0.03781785  0.1
   0.1       ]
-Bad fitting for Salvador BA:  32.16
+Bad fitting for Salvador BA:  32.31
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RN_Natal.csv
-657125774330671.2
-[ 2.         -8.17790088  1.          0.05        0.04867011  0.1
+683025600536524.6
+[ 2.         -8.16168951  1.          0.05        0.04858448  0.1
   0.1       ]
-Bad fitting for Natal RN:  38.30
+Bad fitting for Natal RN:  38.25
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PI_Teresina.csv
-657224615400843.4
-[ 2.         -7.11121717  1.          0.06379294  0.04497444  0.1
+683129275506284.1
+[ 2.         -7.07940882  1.          0.06320535  0.0448082   0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PB_João_Pessoa.csv
-657260159316879.5
-[ 2.         -3.18975446  1.          0.05        0.03589397  0.1
+683166353070669.8
+[ 2.         -3.17642105  1.          0.05        0.03581063  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PE_Recife.csv
-657322123666535.0
-[  1.89446586 -10.           1.           0.5          0.07853099
-   1.63045304   0.1       ]
+683229656543776.4
+[  1.90004983 -10.           1.           0.5          0.07842323
+   1.59136783   0.10000001]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AL_Maceió.csv
-657333754162610.5
-[ 2.         -9.17768904  1.          0.5         0.03386877  0.10000003
-  0.27470527]
+683241500153229.0
+[ 2.         -9.07845825  1.          0.5         0.03386666  0.1
+  0.26823965]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Aracaju.csv
-657350550271247.5
-[ 2.         -4.63413926  1.          0.13454574  0.02111051  0.1
+683258655372682.2
+[ 2.         -4.62739769  1.          0.13300585  0.02111835  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Uberlândia.csv
-657352664699306.1
+683260769800740.9
 [ 2.         -7.88652834  1.          0.06657895  0.02144622  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MS_Dourados.csv
-657352666781231.4
+683260771882666.1
 [0.85254726 9.99998454 1.35683696 0.05       0.01038663 0.10000148
  0.58836924]
 =======
-Tempo de execussão: 0:42:39.001675/usr/lib64/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:186: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
+Tempo de execussão: 0:43:39.705050/usr/lib64/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:186: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
   'approximations.', UserWarning)
 
 Rodou o DELPHI
-DELPHI Update 09-07-2020 02:48:57
+DELPHI Update 09-08-2020 02:50:08
