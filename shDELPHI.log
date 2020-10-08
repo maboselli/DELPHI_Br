@@ -1,4 +1,22 @@
 get_ms_scriptGH.py
+Traceback (most recent call last):
+  File "/home/boselli/Marco/prog/epidemia/delphi_br/get_ms_scriptGH.py", line 25, in <module>
+    df = pd.read_csv(xls_file, sep=";")
+  File "/usr/lib64/python3.6/site-packages/pandas/io/parsers.py", line 676, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/usr/lib64/python3.6/site-packages/pandas/io/parsers.py", line 454, in _read
+    data = parser.read(nrows)
+  File "/usr/lib64/python3.6/site-packages/pandas/io/parsers.py", line 1133, in read
+    ret = self._engine.read(nrows)
+  File "/usr/lib64/python3.6/site-packages/pandas/io/parsers.py", line 2037, in read
+    data = self._reader.read(nrows)
+  File "pandas/_libs/parsers.pyx", line 860, in pandas._libs.parsers.TextReader.read
+  File "pandas/_libs/parsers.pyx", line 875, in pandas._libs.parsers.TextReader._read_low_memory
+  File "pandas/_libs/parsers.pyx", line 929, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas/_libs/parsers.pyx", line 916, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "pandas/_libs/parsers.pyx", line 2071, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 12, saw 2
+
 ms_to_delphiGH.py
 /usr/lib64/python3.6/site-packages/pandas/core/frame.py:4133: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame
@@ -269,8 +287,8 @@ Bad fitting for Teresina PI:  26.34
 [0.85254726 9.99998454 1.35683696 0.05       0.01038663 0.10000148
  0.58836924]
 =======
-Tempo de execussão: 0:49:40.938042/usr/lib64/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:186: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
+Tempo de execussão: 0:50:03.237953/usr/lib64/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:186: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
   'approximations.', UserWarning)
 
 Rodou o DELPHI
-DELPHI Update 10-07-2020 02:50:26
+DELPHI Update 10-08-2020 02:50:12
