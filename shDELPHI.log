@@ -15,7 +15,7 @@ Traceback (most recent call last):
   File "pandas/_libs/parsers.pyx", line 929, in pandas._libs.parsers.TextReader._read_rows
   File "pandas/_libs/parsers.pyx", line 916, in pandas._libs.parsers.TextReader._tokenize_rows
   File "pandas/_libs/parsers.pyx", line 2071, in pandas._libs.parsers.raise_parser_error
-pandas.errors.ParserError: Error tokenizing data. C error: Expected 1 fields in line 12, saw 2
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 3 fields in line 33, saw 4
 
 ms_to_delphiGH.py
 /usr/lib64/python3.6/site-packages/pandas/core/frame.py:4133: SettingWithCopyWarning: 
@@ -287,8 +287,8 @@ Bad fitting for Teresina PI:  26.34
 [0.85254726 9.99998454 1.35683696 0.05       0.01038663 0.10000148
  0.58836924]
 =======
-Tempo de execussão: 0:50:03.237953/usr/lib64/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:186: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
+Tempo de execussão: 0:50:08.929296/usr/lib64/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:186: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
   'approximations.', UserWarning)
 
 Rodou o DELPHI
-DELPHI Update 10-08-2020 02:50:12
+DELPHI Update 10-09-2020 02:50:17
