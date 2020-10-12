@@ -274,3 +274,23 @@ Tempo de execussão: 0:50:29.249936/usr/lib64/python3.6/site-packages/scipy/opti
 
 Rodou o DELPHI
 DELPHI Update 10-12-2020 02:50:54
+[master aa940cb] update 10-12-2020 02:50:54
+ 15 files changed, 2852 insertions(+), 2838 deletions(-)
+ rewrite Fig_Brasil_AC_Estado.png (99%)
+ rewrite "Fig_Brasil_AL_Macei\303\263.png" (99%)
+ rewrite Fig_Brasil_AM_Estado.png (98%)
+ rewrite Fig_Brasil_AP_Estado.png (99%)
+ rewrite Fig_Brasil_CE_Fortaleza.png (98%)
+ rewrite "Fig_Brasil_MA_S\303\243o_Lu\303\255s.png" (98%)
+ rewrite "Fig_Brasil_MG_Uberl\303\242ndia.png" (98%)
+ rewrite Fig_Brasil_MS_Dourados.png (99%)
+ rewrite Fig_Brasil_PA_Estado.png (99%)
+ rewrite "Fig_Brasil_PB_Jo\303\243o_Pessoa.png" (99%)
+ rewrite Fig_Brasil_PE_Recife.png (98%)
+ rewrite Fig_Brasil_SE_Aracaju.png (99%)
+ rewrite Geral_DELPHI_BR.csv (63%)
+ rewrite Parameters_Global.csv (92%)
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:maboselli/DELPHI_Br.git        
+To github.com:maboselli/delphi_Br.git
+   27adc68..aa940cb  master -> master
