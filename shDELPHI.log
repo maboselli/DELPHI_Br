@@ -54,241 +54,226 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Aracaju.csv
 DELPHI_model
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RO_Estado.csv
-1375493856503.0615
-[ 2.         -3.40630697  1.          0.05        0.02355019  0.1
+1434086442151.97
+[ 2.         -3.37595218  1.          0.05        0.02347015  0.1
   0.1       ]
-Bad fitting for Estado RO:  28.24
+Bad fitting for Estado RO:  28.25
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AC_Estado.csv
-1495356074460.3193
-[ 2.         -6.20970093  1.          0.13359945  0.02522392  0.1
+1561115219667.4539
+[ 2.         -6.18531505  1.          0.12912103  0.02517787  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AM_Estado.csv
-7240643723141.972
-[ 2.         -1.29096002  1.          0.5         0.03175034  0.1
-  0.1       ]
+10206360300826.936
+[  2.         -10.           1.           0.13963383   0.03238878
+   2.83573619   0.1       ]
+Bad fitting for Estado AM:  28.06
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RR_Estado.csv
-8751470870213.462
-[ 2.         -2.85028785  1.          0.05        0.01545031  0.1
+11781066292186.428
+[ 2.         -2.79635597  1.          0.05        0.01536693  0.1
   0.1       ]
-Bad fitting for Estado RR:  39.08
+Bad fitting for Estado RR:  39.21
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PA_Estado.csv
-20665514736143.74
-[2.         0.97810431 1.         0.5        0.03225253 0.1
+24250516328429.508
+[2.         0.9978712  1.         0.5        0.03211246 0.1
  0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AP_Estado.csv
-21082367536894.414
-[ 2.         -3.61662207  1.          0.07378227  0.01593539  0.1
+24687831163039.96
+[ 2.         -3.5917392   1.          0.07168061  0.01592987  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_TO_Estado.csv
-23705131769126.965
-[ 2.         -3.62752178  1.          0.05        0.01614646  0.1
+27426271740482.34
+[ 2.         -3.57739478  1.          0.05        0.01611092  0.1
   0.1       ]
-Bad fitting for Estado TO:  40.95
+Bad fitting for Estado TO:  41.12
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MA_Estado.csv
-43469238872509.64
-[2.         4.18765572 1.         0.05       0.02553988 0.1
+47963750448470.54
+[2.         4.26967368 1.         0.05       0.02545491 0.1
  0.1       ]
-Bad fitting for Estado MA:  38.35
+Bad fitting for Estado MA:  38.60
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PI_Estado.csv
-54671190766129.56
-[ 2.         10.          1.75225961  0.05        0.02559893  0.1
+56684366190899.336
+[ 1.60586771 10.          1.          0.05        0.02621014  0.1
   0.1       ]
-Bad fitting for Estado PI:  90.39
+Bad fitting for Estado PI:  54.53
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_CE_Estado.csv
-101963095754539.38
-[2.         2.09379766 1.         0.05       0.04478228 0.1
+106037877374129.47
+[2.         2.14330175 1.         0.05       0.04451317 0.1
  0.1       ]
-Bad fitting for Estado CE:  39.14
+Bad fitting for Estado CE:  39.29
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RN_Estado.csv
-105204523140518.4
-[ 2.         -1.74782406  1.          0.05        0.03918012  0.1
+109449924219815.3
+[ 2.         -1.69531463  1.          0.05        0.03901585  0.1
   0.1       ]
-Bad fitting for Estado RN:  52.78
+Bad fitting for Estado RN:  53.01
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PB_Estado.csv
-114356903782304.66
-[2.         7.59234222 1.         0.05       0.02595364 0.1
+118997341807741.42
+[2.         7.66736933 1.         0.05       0.02590964 0.1
  0.1       ]
-Bad fitting for Estado PB:  38.14
+Bad fitting for Estado PB:  38.45
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PE_Estado.csv
-127013606975508.98
-[2.         2.90438471 1.         0.05304545 0.0672454  0.1
+132200259182093.11
+[2.         2.94942979 1.         0.05171243 0.06706085 0.1
  0.1       ]
-Bad fitting for Estado PE:  32.20
+Bad fitting for Estado PE:  32.23
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AL_Estado.csv
-129034653707386.6
-[2.         0.73635173 1.         0.06302026 0.02666837 0.1
+134291597270241.2
+[2.         0.76727452 1.         0.06095332 0.02669104 0.1
  0.1       ]
 Bad fitting for Estado AL:  27.30
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Estado.csv
-131330601770830.58
-[2.         1.72389807 1.         0.05       0.0291739  0.1
+136668343294836.84
+[2.         1.77271538 1.         0.05       0.02910706 0.1
  0.1       ]
-Bad fitting for Estado SE:  28.87
+Bad fitting for Estado SE:  28.93
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_BA_Estado.csv
-281783694262186.1
-[2.         2.85654064 1.         0.05       0.0245818  0.1
+292979355365402.4
+[2.         2.93075348 1.         0.05       0.02453739 0.1
  0.1       ]
-Bad fitting for Estado BA:  112.71
+Bad fitting for Estado BA:  113.79
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Estado.csv
-590575228953588.6
-[ 2.         10.          1.          0.05        0.03312949  5.682707
-  1.21048528]
-Bad fitting for Estado MG:  1008.45
+620183707166882.0
+[ 2.         10.          1.          0.05        0.03336917  8.03058654
+  2.12208395]
+Bad fitting for Estado MG:  1105.41
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_ES_Estado.csv
-599968886756148.0
-[ 2.         -2.00999226  1.          0.05        0.03140367  0.1
+630088053966690.4
+[ 2.         -1.97330242  1.          0.05        0.03123647  0.1
   0.1       ]
-Bad fitting for Estado ES:  35.07
+Bad fitting for Estado ES:  35.20
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RJ_Estado.csv
-644881743467755.5
-[2.         0.31820515 1.         0.05       0.08078285 0.1
+677373844722929.0
+[2.         0.34818261 1.         0.05       0.08043092 0.1
  0.1       ]
-Bad fitting for Estado RJ:  33.61
+Bad fitting for Estado RJ:  33.74
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SP_Estado.csv
-1798563570817380.0
-[2.         3.28893435 1.         0.05       0.0426296  0.1
+1875971073891341.0
+[2.         3.32362997 1.         0.05       0.0424455  0.1
  0.1       ]
-Bad fitting for Estado SP:  57.18
+Bad fitting for Estado SP:  57.43
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PR_Estado.csv
-1848401705410391.0
-[ 2.         -1.70690127  1.          0.05        0.02832508  0.1
+1928134405571652.2
+[ 2.         -1.65294315  1.          0.05        0.02823615  0.1
   0.1       ]
-Bad fitting for Estado PR:  170.82
+Bad fitting for Estado PR:  171.79
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SC_Estado.csv
-1936515267989922.5
-[ 2.         -0.97367755  1.          0.05        0.01498216  0.1
+2019544758900132.2
+[ 2.         -0.91705939  1.          0.05        0.01491885  0.1
   0.1       ]
-Bad fitting for Estado SC:  157.73
+Bad fitting for Estado SC:  158.66
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RS_Estado.csv
-2004093815397409.8
-[ 2.         -2.10619206  1.          0.05        0.02882531  0.1
+2090890253457309.0
+[ 2.         -2.03810223  1.          0.05        0.02868689  0.1
   0.1       ]
-Bad fitting for Estado RS:  137.90
+Bad fitting for Estado RS:  139.35
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MS_Estado.csv
-2015563264370215.0
-[2.         8.3552782  1.         0.05       0.02145116 0.1
+2102955722662570.5
+[2.         9.00763174 1.         0.05       0.02148267 0.1
  0.1       ]
-Bad fitting for Estado MS:  501.73
+Bad fitting for Estado MS:  520.88
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MT_Estado.csv
-2032032310572342.5
-[ 2.         -2.0559147   1.          0.05        0.03356132  0.1
+2120175940275643.8
+[ 2.         -2.00019786  1.          0.05        0.03336221  0.1
   0.1       ]
-Bad fitting for Estado MT:  144.70
+Bad fitting for Estado MT:  145.19
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_GO_Estado.csv
-2098815863038414.2
-[ 2.         -0.58744683  1.          0.05        0.02623719  0.1
+2190794427384643.2
+[ 2.         -0.51787836  1.          0.05        0.02615395  0.1
   0.1       ]
-Bad fitting for Estado GO:  164.65
+Bad fitting for Estado GO:  166.33
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_DF_Estado.csv
-2154467485723013.2
-[ 2.         -0.39883693  1.          0.05        0.017913    0.1
+2248367092175799.0
+[ 2.         -0.34622476  1.          0.05        0.01792597  0.1
   0.1       ]
-Bad fitting for Estado DF:  179.60
+Bad fitting for Estado DF:  180.46
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_CE_Fortaleza.csv
-2154652284658015.8
-[ 2.         -9.29284603  1.          0.5         0.0826863   0.1
+2248568176555490.2
+[ 2.         -9.27586556  1.          0.5         0.08242894  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MA_São_Luís.csv
-2154717581251792.2
-[ 2.         -9.99999999  1.          0.5         0.0628495   0.1
-  0.13379283]
+2248637787788186.8
+[ 2.         -9.77818623  1.          0.5         0.06262793  0.10000001
+  0.12641524]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_BA_Salvador.csv
-2159025238272482.0
-[ 2.         -3.0335801   1.          0.05        0.03520873  0.1
+2253074223344035.0
+[ 2.         -3.00657     1.          0.05        0.03513466  0.1
   0.1       ]
-Bad fitting for Salvador BA:  35.62
+Bad fitting for Salvador BA:  35.68
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RN_Natal.csv
-2159215910956672.5
-[ 2.         -7.65212835  1.          0.05        0.0453383   0.1
+2253272414431782.0
+[ 2.         -7.62580288  1.          0.05        0.0452254   0.1
   0.1       ]
-Bad fitting for Natal RN:  35.13
+Bad fitting for Natal RN:  35.07
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PI_Teresina.csv
-2159723121884453.5
-[ 2.         -5.91287192  1.          0.05        0.03850935  0.1
+2253813107156290.0
+[ 2.         -5.86004451  1.          0.05        0.038216    0.1
   0.1       ]
-Bad fitting for Teresina PI:  27.61
+Bad fitting for Teresina PI:  27.85
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PB_João_Pessoa.csv
-2159856739255991.2
-[ 2.         -2.70638336  1.          0.05        0.03323211  0.1
+2253954167488666.0
+[ 2.         -2.68470675  1.          0.05        0.03316105  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PE_Recife.csv
-2160023795372573.8
-[ 2.         -7.60881317  1.          0.5         0.07415286  0.1000001
-  0.26813576]
+2254127525478656.0
+[ 2.         -7.30109709  1.          0.5         0.07397551  0.10000002
+  0.24744006]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AL_Maceió.csv
-2160066506902495.5
-[ 2.         -5.44199802  1.          0.5         0.03371238  0.1
+2254172284931191.0
+[ 2.         -5.43020118  1.          0.5         0.03370763  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Aracaju.csv
-2160112438661790.5
-[ 2.         -4.36639307  1.          0.08570343  0.02148875  0.1
+2254222243476523.0
+[ 2.         -4.34919179  1.          0.08348312  0.02151132  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Uberlândia.csv
-2160114553089849.2
+2254224357904581.5
 [ 2.         -7.88652834  1.          0.06657895  0.02144622  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MS_Dourados.csv
-2160114555171774.5
+2254224359986506.5
 [0.85254726 9.99998454 1.35683696 0.05       0.01038663 0.10000148
- 0.58836924]
-=======
-Tempo de execussão: 0:53:20.047278/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
+ 0.58836924]/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
   'approximations.', UserWarning)
 /home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
   'approximations.', UserWarning)
 
+=======
+Tempo de execussão: 0:52:56.189313
 Rodou o DELPHI
-DELPHI Update 10-19-2020 02:54:07
+DELPHI Update 10-20-2020 02:54:30
