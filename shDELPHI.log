@@ -1,4 +1,8 @@
 get_ms_scriptGH_rar_zip.py
+Traceback (most recent call last):
+  File "/home/boselli/Marco/prog/epidemia/delphi_br/get_ms_scriptGH.py", line 20, in <module>
+    data = json.loads(content)["results"][0]
+KeyError: 'results'
 ms_to_delphiGH.py
 /usr/lib64/python3.6/site-packages/pandas/core/frame.py:4133: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame
@@ -408,6 +412,6 @@ Bad fitting for Teresina PI:  32.91
 /home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
   'approximations.', UserWarning)
 
-Tempo de execussão: 1:03:49.767099
+Tempo de execussão: 1:03:50.751607
 Rodou o DELPHI
-DELPHI Update 12-11-2020 03:04:48
+DELPHI Update 12-12-2020 03:04:01
