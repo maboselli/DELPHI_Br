@@ -53,303 +53,226 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AL_Maceió.csv
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Aracaju.csv
 DELPHI_model
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RO_Estado.csv
-16762551573367.477
-[ 2.         -1.76528023  1.          0.05        0.02055651  0.1
+17404092131806.594
+[ 2.         -1.74105565  1.          0.05        0.02053094  0.1
   0.1       ]
-Bad fitting for Estado RO:  35.42
+Bad fitting for Estado RO:  35.68
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AC_Estado.csv
-19101099017886.652
-[ 2.         -4.67301277  1.          0.05        0.02188861  0.1
+19804828231872.105
+[ 2.         -4.6551375   1.          0.05        0.02184857  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AM_Estado.csv
-103112500398025.33
-[2.         0.16949761 1.         0.05       0.02962092 0.1
+107007584929140.75
+[2.         0.18999054 1.         0.05       0.02963234 0.1
  0.1       ]
-Bad fitting for Estado AM:  32.84
+Bad fitting for Estado AM:  33.07
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RR_Estado.csv
-111189130492578.75
-[ 2.         -0.38792248  1.          0.05        0.01279775  0.1
+115186021648777.11
+[ 2.         -0.3666843   1.          0.05        0.01278735  0.1
   0.1       ]
-Bad fitting for Estado RR:  47.78
+Bad fitting for Estado RR:  47.89
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PA_Estado.csv
-193988049426656.22
-[2.         1.87913916 1.         0.5        0.02722399 0.1
+199707422730766.62
+[2.         1.88840574 1.         0.5        0.02718555 0.1
  0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AP_Estado.csv
-200301764378472.47
-[ 2.         -1.98012849  1.          0.05        0.01471787  0.1
+206168438604456.2
+[ 2.         -1.96078633  1.          0.05        0.01471107  0.1
   0.1       ]
-Bad fitting for Estado AP:  28.75
+Bad fitting for Estado AP:  28.89
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_TO_Estado.csv
-212647309055762.34
-[ 2.         -1.87963833  1.          0.05        0.01478949  0.1
+218721238980633.7
+[ 2.         -1.86396667  1.          0.05        0.01477813  0.1
   0.1       ]
-Bad fitting for Estado TO:  44.36
+Bad fitting for Estado TO:  44.42
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MA_Estado.csv
-275936584109409.28
-[2.         7.7738887  1.         0.05       0.02373497 0.1
+282483819087269.44
+[2.         7.80532358 1.         0.05       0.02372908 0.1
  0.1       ]
-Bad fitting for Estado MA:  47.12
+Bad fitting for Estado MA:  47.18
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PI_Estado.csv
-326432472052021.5
-[2.         5.90176907 1.         0.05       0.02241927 0.1
+333722916833372.6
+[2.         5.94214004 1.         0.05       0.02239224 0.1
  0.1       ]
-Bad fitting for Estado PI:  73.64
+Bad fitting for Estado PI:  73.94
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_CE_Estado.csv
-572322169144424.2
-[2.         4.39766204 1.         0.05       0.0357157  0.1
+583327143652809.6
+[2.         4.42138515 1.         0.05       0.03565079 0.1
  0.1       ]
-Bad fitting for Estado CE:  47.99
+Bad fitting for Estado CE:  48.12
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RN_Estado.csv
-610603450967064.9
-[2.         1.33097867 1.         0.05       0.03093305 0.1
+622533694216567.8
+[2.         1.37069134 1.         0.05       0.03085742 0.1
  0.1       ]
-Bad fitting for Estado RN:  75.55
+Bad fitting for Estado RN:  75.98
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PB_Estado.csv
-670694733217455.4
-[ 2.         10.          1.          0.05        0.02432592  0.59067941
-  0.1       ]
-Bad fitting for Estado PB:  63.55
+683867707333349.0
+[ 2.         10.          1.          0.05        0.02430705  0.31263246
+  0.18373139]
+Bad fitting for Estado PB:  64.13
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PE_Estado.csv
-783583253289118.9
-[2.         5.50808073 1.         0.05       0.05303367 0.1
+799427101860496.0
+[2.         5.54192634 1.         0.05       0.05290186 0.1
  0.1       ]
-Bad fitting for Estado PE:  37.97
+Bad fitting for Estado PE:  38.13
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AL_Estado.csv
-793339453041109.8
-[2.         2.13511555 1.         0.05       0.02532737 0.1
+809392031213583.0
+[2.         2.15233881 1.         0.05       0.02531221 0.1
  0.1       ]
-Bad fitting for Estado AL:  26.58
+Bad fitting for Estado AL:  26.64
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Estado.csv
-816760033841402.6
-[2.         5.12448071 1.         0.05       0.02541542 0.1
+833504671296841.5
+[2.         5.18207489 1.         0.05       0.02536541 0.1
  0.1       ]
-Bad fitting for Estado SE:  41.04
+Bad fitting for Estado SE:  41.37
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_BA_Estado.csv
-1772313008730818.5
-[2.         6.86984124 1.         0.05       0.02134387 0.1
+1808137729929119.8
+[2.         6.92096065 1.         0.05       0.02130443 0.1
  0.1       ]
-Bad fitting for Estado BA:  174.30
+Bad fitting for Estado BA:  175.26
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Estado.csv
-5864088948030519.0
-[ 2.         10.          1.          0.05        0.05982572 10.
+6011002248475672.0
+[ 2.         10.          1.          0.05        0.06014803 10.
  10.        ]
-Bad fitting for Estado MG:  1222.44
+Bad fitting for Estado MG:  1221.96
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_ES_Estado.csv
-6049781217770933.0
-[2.         0.25200242 1.         0.05       0.02429448 0.1
+6201153239858816.0
+[2.         0.27654629 1.         0.05       0.02424795 0.1
  0.1       ]
-Bad fitting for Estado ES:  55.55
+Bad fitting for Estado ES:  55.88
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RJ_Estado.csv
-6568521063707069.0
-[2.         1.81439626 1.         0.05       0.06728443 0.1
+6732567818769028.0
+[2.         1.83035284 1.         0.05       0.06718431 0.1
  0.1       ]
-Bad fitting for Estado RJ:  45.40
+Bad fitting for Estado RJ:  45.61
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SP_Estado.csv
-1.3246014876513808e+16
-[2.         4.73857848 1.         0.05       0.03595476 0.1
- 0.1       ]
-Bad fitting for Estado SP:  68.54
+1.3555625708928392e+16
+[2.        4.753735  1.        0.05      0.0358958 0.1       0.1      ]
+Bad fitting for Estado SP:  68.74
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PR_Estado.csv
-1.4188361195564214e+16
-[2.         1.14979129 1.         0.05       0.02233929 0.1
+1.4524165534489398e+16
+[2.         1.18020447 1.         0.05       0.02228833 0.1
  0.1       ]
-Bad fitting for Estado PR:  250.44
+Bad fitting for Estado PR:  251.77
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SC_Estado.csv
-1.5416469776690472e+16
-[2.         2.22342195 1.         0.05       0.01197123 0.1
+1.5776776990195792e+16
+[2.         2.25239408 1.         0.05       0.01196349 0.1
  0.1       ]
-Bad fitting for Estado SC:  245.30
+Bad fitting for Estado SC:  246.46
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RS_Estado.csv
-1.6455232388266608e+16
-[2.         0.97668113 1.         0.05       0.02274711 0.1
+1.6838852842166314e+16
+[2.         1.00380947 1.         0.05       0.02271163 0.1
  0.1       ]
-Bad fitting for Estado RS:  219.60
+Bad fitting for Estado RS:  220.59
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MS_Estado.csv
-1.6618465374631746e+16
-[ 2.         10.          1.          0.05        0.03513297 10.
+1.7006182007020068e+16
+[ 2.         10.          1.          0.05        0.03534558 10.
  10.        ]
-Bad fitting for Estado MS:  1226.43
+Bad fitting for Estado MS:  1226.03
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MT_Estado.csv
-1.6706587933411462e+16
-[ 2.         -0.03019489  1.          0.05        0.0276716   0.1
+1.7096041413950728e+16
+[ 2.         -0.01099927  1.          0.05        0.02762937  0.1
   0.1       ]
-Bad fitting for Estado MT:  155.79
+Bad fitting for Estado MT:  156.02
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_GO_Estado.csv
-1.7031628309925908e+16
-[2.         1.56615926 1.         0.05       0.02369848 0.1
+1.7424987326441934e+16
+[2.         1.58169944 1.         0.05       0.02367764 0.1
  0.1       ]
-Bad fitting for Estado GO:  197.71
+Bad fitting for Estado GO:  197.87
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_DF_Estado.csv
-1.7222006072366402e+16
-[2.         1.57754163 1.         0.05       0.01765185 0.1
+1.7617496197436972e+16
+[2.         1.59430261 1.         0.05       0.0176436  0.1
  0.1       ]
-Bad fitting for Estado DF:  197.04
+Bad fitting for Estado DF:  197.16
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_CE_Fortaleza.csv
-1.7233976361556476e+16
-[ 2.         -7.7106444   1.          0.5         0.06334218  0.1
+1.7629802984796144e+16
+[ 2.         -7.69098781  1.          0.5         0.06314684  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MA_São_Luís.csv
-1.7234467698334656e+16
-[ 1.99999998 -8.05288599  1.          0.17930279  0.05436792  0.1
+1.76303007912113e+16
+[ 2.         -8.04533855  1.          0.29107936  0.05416879  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_BA_Salvador.csv
-1.7253286071130282e+16
-[ 2.         -1.87927814  1.          0.05        0.03163882  0.1
+1.7649508721119164e+16
+[ 2.         -1.86632007  1.          0.05        0.03159497  0.1
   0.1       ]
-Bad fitting for Salvador BA:  38.56
+Bad fitting for Salvador BA:  38.64
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RN_Natal.csv
-1.7254880074548446e+16
-[ 2.        -6.313549   1.         0.05       0.0395962  0.1
-  0.1      ]
-Bad fitting for Natal RN:  39.12
+1.7651140111789604e+16
+[ 2.         -6.29781147  1.          0.05        0.03953872  0.1
+  0.1       ]
+Bad fitting for Natal RN:  39.26
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PI_Teresina.csv
-1.725962058597101e+16
-[ 2.        -3.7404561  1.         0.05       0.0290443  0.1
-  0.1      ]
-Bad fitting for Teresina PI:  38.09
+1.7655964749225418e+16
+[ 2.         -3.72123268  1.          0.05        0.02897919  0.1
+  0.1       ]
+Bad fitting for Teresina PI:  38.21
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PB_João_Pessoa.csv
-1.7261754790239724e+16
-[ 2.         -1.40495656  1.          0.05        0.03005646  0.1
+1.7658163757655598e+16
+[ 2.         -1.38836931  1.          0.05        0.03001226  0.1
   0.1       ]
-Bad fitting for João Pessoa PB:  25.71
+Bad fitting for João Pessoa PB:  25.84
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_PE_Recife.csv
-1.7265025879995144e+16
-[ 2.         -3.3316375   1.          0.5         0.06265801  0.1
+1.7661533063537702e+16
+[ 2.         -3.31657282  1.          0.5         0.06252215  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AL_Maceió.csv
-1.726595538780728e+16
-[ 2.         -4.63736938  1.          0.05831293  0.03282995  0.1
+1.766250211840284e+16
+[ 2.         -4.62286809  1.          0.05654945  0.03282281  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_SE_Aracaju.csv
-1.7270661291630618e+16
-[ 2.         -2.560899    1.          0.05        0.01902976  0.1
+1.7667372912499972e+16
+[ 2.         -2.5308601   1.          0.05        0.01898094  0.1
   0.1       ]
 =======
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Uberlândia.csv
-1.7270663406058676e+16
+1.766737502692803e+16
 [ 2.         -7.88652834  1.          0.06657895  0.02144622  0.1
   0.1       ]
 =======
-/home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MS_Dourados.csv
-1.7270663408140602e+16/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
-  'approximations.', UserWarning)
-/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
+/home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MS_Dourados.csv/home/boselli/.local/lib/python3.6/site-packages/scipy/optimize/_hessian_update_strategy.py:187: UserWarning: delta_grad == 0.0. Check if the approximated function is linear. If the function is linear better results can be obtained by defining the Hessian as zero instead of using quasi-Newton approximations.
   'approximations.', UserWarning)
 
+1.7667375029009956e+16
 [0.85254726 9.99998454 1.35683696 0.05       0.01038663 0.10000148
  0.58836924]
 =======
-Tempo de execussão: 1:09:33.177408
+Tempo de execussão: 1:11:27.986433
 Rodou o DELPHI
-DELPHI Update 01-29-2021 03:10:37
+DELPHI Update 01-30-2021 03:12:32
